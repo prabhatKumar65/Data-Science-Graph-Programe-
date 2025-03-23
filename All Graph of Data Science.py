@@ -3,11 +3,11 @@ import matplotlib.pyplot as plt
 x=[10,20,30,40,50,60]
 y=[20,30,40,50,60,70]
 plt.plot(y,x)
-plt.title('❤❤Simple Plot❤❤')
+plt.title('❤❤Simple Plot Created❤❤')
 plt.ylabel('❤X-axis❤')
 plt.xlabel('❤Y-axis❤')
 plt.show()
-#Creating Simple Histogram
+#Creating Simple Histogram For Practice
 x=[1,2,3,4,5,6,7,8]
 y=[1,2,3,4,5,6,7,10]
 plt.hist(x,y)
