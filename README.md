@@ -27,7 +27,7 @@ python filename.py
 ```
 
 ## Contributing 🤝
-Feel free to contribute by adding new visualization techniques, optimizing code, or fixing issues. Pull requests are welcome! 😊
+Feel free to contribute by adding new visualizations techniques, optimizing codes, or fixing issues. Pull requests are welcome! 😊
 
 ## Happy Coding. 🚀
 
