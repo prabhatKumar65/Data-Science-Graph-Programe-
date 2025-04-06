@@ -3,7 +3,7 @@
 Welcome to **Data-Science-Graph-Programe**. 🚀 This repository contains Python programs for data visualizations using various graph types. The output includes **Histograms, Bar Graphs, Scatter Plots, and Pie Charts** using powerful Python libraries.
 
 ## Technologies Used
-- **Python Programming Language** 🐍
+- **Python Programming Languages** 🐍
 - **Matplotlib** 📉
 - **NumPy** 🔢
 - **Pandas** 🗃️
