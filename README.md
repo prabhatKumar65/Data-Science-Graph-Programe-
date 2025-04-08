@@ -9,7 +9,7 @@ Welcome to **Data-Science-Graph-Programe**. 🚀 This repository contains Python
 - **Pandas** 🗃️
 
 ## Features ✨
-- 📊 Create **Histograms** for data distribution
+- 📊 Create **Histograms** for data distribution.
 - 📈 Generate **Bar Graphs** for comparisons
 - 🔵 Visualize relationships with **Scatter Plots**
 - 🥧 Display proportions with **Pie Charts**
