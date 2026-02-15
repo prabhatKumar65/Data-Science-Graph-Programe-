@@ -1,4 +1,4 @@
-📊 Data Science Graph Program
+📊 Data Science Graph
 Welcome to the Data Science Graph Program repository! 🚀
 This project showcases a variety of data visualization techniques using Python. You'll find practical examples of Histograms, Bar Charts, Scatter Plots, and Pie Charts, implemented with widely-used libraries for data analysis and visualization.
 
